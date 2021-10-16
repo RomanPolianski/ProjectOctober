@@ -1,1 +1,2 @@
-document.getAnimations()
+document.getAnimations();
+console.log();
