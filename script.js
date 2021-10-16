@@ -1,2 +1,2 @@
 document.getAnimations();
-console.log();
+console.log(!!!!!!!!!!!!!!!!!!!!!!!!);
